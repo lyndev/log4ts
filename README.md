@@ -1,6 +1,9 @@
 # 1 log4ts
 typescript log4ts
 
+cocos creator
+laya air
+
 # 2 import
 import { logger4 } from "../../libs/log4/log4ts";
 
