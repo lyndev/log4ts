@@ -1,10 +1,10 @@
-#### log4ts
+# 1 log4ts
 typescript log4ts
 
-#### import
+# 2 import
 import { logger4 } from "../../libs/log4/log4ts";
 
-#### use
+# 3 use
 ```
     export GameLogger = new logger4.Logger("test-log")
     let layout = new logger4.BasicLayout();
